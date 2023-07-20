@@ -28,8 +28,8 @@
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
-- Download from source: (https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3beta)
-- Navigate to target folder: Search keyword "Cumsoft_Cursorority_Pak3 or "../user//Cumsoft_Cursorority_Pak3beta.zip/.."
+- Download from source: (https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3)
+- Navigate to target folder: Search keyword "Cumsoft_Cursorority_Pak3 or "../user//Cumsoft_Cursorority_Pak3.zip/.."
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
 
