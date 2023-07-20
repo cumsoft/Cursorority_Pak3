@@ -2,7 +2,7 @@
 
 ### Cumsoft_Cursorority_Pak3 <3
 
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak3/blob/f8d8a7d74a221d67e9c245b034005e39060e8de1/Cumsoft_Cursorority_Pak3README.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
@@ -21,15 +21,15 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak3/blob/e899f8800508831ac58e704984b53768aed96943/Cumsoft_Cursorority_Pakv3.jpg)
 
 ### Compatible With Windows Operating Systems Only!!
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
 *Browser installation*
-- Download from source: (https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3beta)
-- Navigate to target folder: Search keyword "Cumsoft_Cursorority_Pak3 or "../user//Cumsoft_Cursorority_Pak3beta.zip/.."
+- Download from source: (https://cumsoft.gumroad.com/l/Cumsoft_Cursorority_Pak3)
+- Navigate to target folder: Search keyword "Cumsoft_Cursorority_Pak3 or "../user//Cumsoft_Cursorority_Pak3.zip/.."
 - Decompress/Unzip folder with your choice of software 
 - Save or remember the folder and path location
 
